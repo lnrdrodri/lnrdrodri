@@ -8,7 +8,6 @@ Iniciei minha carreira como suporte técnico, mas já em 2018 começei a atuar c
 
 Sou Desenvolvedor com mais de 7 anos de experiência no desenvolvimento de aplicações web, trabalhando principalmente com Vue.js, React, Next.js e Nuxt.js, com foco em criar interfaces organizadas e de fácil manutenção.
 
-Obs: Na minha última experiência profissional, utilizávamos o Bitbucket como principal ferramenta de versionamento, então minha atividade no GitHub não reflete totalmente minha experiência nesse período.
 <br/>
 
 ### 🤖 Tech Stack
@@ -31,11 +30,14 @@ Obs: Na minha última experiência profissional, utilizávamos o Bitbucket como 
 
 <p>
   
-<img 
-      align="left" 
+<img  
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnrdrodri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+<br/>
+
+Obs: Na minha última experiência profissional, utilizávamos o Bitbucket como principal ferramenta de versionamento, então minha atividade no GitHub não reflete totalmente minha experiência nesse período.
